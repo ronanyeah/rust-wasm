@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "wasm-pack build --no-pack --release --target web --out-dir dist"
+  },
+  "dependencies": {
+    "wasm-pack": "^0.12.1"
+  }
+}
